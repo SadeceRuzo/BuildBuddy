@@ -1,25 +1,39 @@
 # BuildBuddy
 
-BuildBuddy, PC toplarken parçaların uyumlu olup olmadığını kontrol etmeye yardımcı olan basit bir Python uygulamasıdır.
+BuildBuddy is a simple Python application that helps users check PC part compatibility while building a computer.
 
-## Özellikler
+It provides an easy way to select components and get basic compatibility information before creating a PC build.
 
-- CPU ve GPU seçimi
-- Bottleneck kontrolü
-- CPU ve anakart uyumluluğu
-- RAM uyumluluk kontrolü
-- Parça verilerini JSON dosyalarından okuma
+## Features
 
-## Kullanılan Teknolojiler
+- CPU and GPU selection
+- CPU/GPU bottleneck checking
+- CPU and motherboard compatibility checks
+- RAM compatibility checking
+- Hardware information stored in JSON databases
+- Simple and modern user interface
+- Searchable component selection system
+
+## Supported Hardware
+
+This version currently supports:
+
+- Intel CPUs
+- NVIDIA GPUs
+
+More hardware support will be added in future updates.
+
+## Technologies Used
 
 - Python
 - CustomTkinter
 - JSON
 
-## Hakkında
+## About
 
-Bu proje Python öğrenirken yaptığım ve zamanla geliştirmeyi düşündüğüm bir PC toplama yardımcısıdır.
+BuildBuddy is a project I created while learning Python and improving my programming skills.
 
-## Sürüm
+The goal of this project is to create a helpful PC building assistant that makes choosing compatible components easier.
 
-v1.0.0
+
+
