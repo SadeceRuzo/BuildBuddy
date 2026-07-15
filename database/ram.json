@@ -1,0 +1,75 @@
+[
+    {
+        "name": "16GB DDR4 3200MHz",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "speed": 3200
+    },
+    {
+        "name": "32GB DDR4 3200MHz",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "speed": 3200
+    },
+    {
+        "name": "32GB DDR4 3600MHz",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "speed": 3600
+    },
+    {
+        "name": "64GB DDR4 3600MHz",
+        "type": "DDR4",
+        "capacity": "64GB",
+        "speed": 3600
+    },
+
+    {
+        "name": "16GB DDR5 4800MHz",
+        "type": "DDR5",
+        "capacity": "16GB",
+        "speed": 4800
+    },
+    {
+        "name": "32GB DDR5 5200MHz",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "speed": 5200
+    },
+    {
+        "name": "32GB DDR5 6000MHz",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "speed": 6000
+    },
+    {
+        "name": "32GB DDR5 6400MHz",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "speed": 6400
+    },
+    {
+        "name": "64GB DDR5 6000MHz",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "speed": 6000
+    },
+    {
+        "name": "64GB DDR5 6400MHz",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "speed": 6400
+    },
+    {
+        "name": "96GB DDR5 6000MHz",
+        "type": "DDR5",
+        "capacity": "96GB",
+        "speed": 6000
+    },
+    {
+        "name": "128GB DDR5 6000MHz",
+        "type": "DDR5",
+        "capacity": "128GB",
+        "speed": 6000
+    }
+]

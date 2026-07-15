@@ -1,0 +1,203 @@
+[
+    {
+        "name": "RTX 2060",
+        "vram": "6GB",
+        "power": 550,
+        "performance": 25
+    },
+    {
+        "name": "RTX 2060 SUPER",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 30
+    },
+    {
+        "name": "RTX 2070",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 33
+    },
+    {
+        "name": "RTX 2070 SUPER",
+        "vram": "8GB",
+        "power": 650,
+        "performance": 38
+    },
+    {
+        "name": "RTX 2080",
+        "vram": "8GB",
+        "power": 650,
+        "performance": 42
+    },
+    {
+        "name": "RTX 2080 SUPER",
+        "vram": "8GB",
+        "power": 650,
+        "performance": 45
+    },
+    {
+        "name": "RTX 2080 Ti",
+        "vram": "11GB",
+        "power": 650,
+        "performance": 50
+    },
+
+    {
+        "name": "RTX 3050",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 28
+    },
+    {
+        "name": "RTX 3060",
+        "vram": "12GB",
+        "power": 550,
+        "performance": 40
+    },
+    {
+        "name": "RTX 3060 Ti",
+        "vram": "8GB",
+        "power": 600,
+        "performance": 48
+    },
+    {
+        "name": "RTX 3070",
+        "vram": "8GB",
+        "power": 650,
+        "performance": 55
+    },
+    {
+        "name": "RTX 3070 Ti",
+        "vram": "8GB",
+        "power": 650,
+        "performance": 60
+    },
+    {
+        "name": "RTX 3080",
+        "vram": "10GB",
+        "power": 750,
+        "performance": 68
+    },
+    {
+        "name": "RTX 3080 Ti",
+        "vram": "12GB",
+        "power": 750,
+        "performance": 73
+    },
+    {
+        "name": "RTX 3090",
+        "vram": "24GB",
+        "power": 750,
+        "performance": 78
+    },
+    {
+        "name": "RTX 3090 Ti",
+        "vram": "24GB",
+        "power": 850,
+        "performance": 82
+    },
+
+    {
+        "name": "RTX 4060",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 50
+    },
+    {
+        "name": "RTX 4060 Ti 8GB",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 56
+    },
+    {
+        "name": "RTX 4060 Ti 16GB",
+        "vram": "16GB",
+        "power": 550,
+        "performance": 57
+    },
+    {
+        "name": "RTX 4070",
+        "vram": "12GB",
+        "power": 650,
+        "performance": 70
+    },
+    {
+        "name": "RTX 4070 SUPER",
+        "vram": "12GB",
+        "power": 650,
+        "performance": 76
+    },
+    {
+        "name": "RTX 4070 Ti",
+        "vram": "12GB",
+        "power": 700,
+        "performance": 82
+    },
+    {
+        "name": "RTX 4070 Ti SUPER",
+        "vram": "16GB",
+        "power": 750,
+        "performance": 86
+    },
+    {
+        "name": "RTX 4080",
+        "vram": "16GB",
+        "power": 750,
+        "performance": 90
+    },
+    {
+        "name": "RTX 4080 SUPER",
+        "vram": "16GB",
+        "power": 750,
+        "performance": 92
+    },
+    {
+        "name": "RTX 4090",
+        "vram": "24GB",
+        "power": 850,
+        "performance": 96
+    },
+
+    {
+        "name": "RTX 5050",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 55
+    },
+    {
+        "name": "RTX 5060",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 65
+    },
+    {
+        "name": "RTX 5060 Ti",
+        "vram": "16GB",
+        "power": 600,
+        "performance": 72
+    },
+    {
+        "name": "RTX 5070",
+        "vram": "12GB",
+        "power": 650,
+        "performance": 84
+    },
+    {
+        "name": "RTX 5070 Ti",
+        "vram": "16GB",
+        "power": 750,
+        "performance": 91
+    },
+    {
+        "name": "RTX 5080",
+        "vram": "16GB",
+        "power": 850,
+        "performance": 97
+    },
+    {
+        "name": "RTX 5090",
+        "vram": "32GB",
+        "power": 1000,
+        "performance": 100
+    }
+]

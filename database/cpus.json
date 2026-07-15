@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Intel Core i5-12400F",
+        "socket": "LGA1700",
+        "performance": 45
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "socket": "LGA1700",
+        "performance": 55
+    },
+    {
+        "name": "Intel Core i7-12700K",
+        "socket": "LGA1700",
+        "performance": 65
+    },
+    {
+        "name": "Intel Core i9-12900K",
+        "socket": "LGA1700",
+        "performance": 75
+    },
+
+    {
+        "name": "Intel Core i5-13400F",
+        "socket": "LGA1700",
+        "performance": 55
+    },
+    {
+        "name": "Intel Core i5-13600K",
+        "socket": "LGA1700",
+        "performance": 72
+    },
+    {
+        "name": "Intel Core i7-13700K",
+        "socket": "LGA1700",
+        "performance": 85
+    },
+    {
+        "name": "Intel Core i9-13900K",
+        "socket": "LGA1700",
+        "performance": 95
+    },
+
+    {
+        "name": "Intel Core i5-14400F",
+        "socket": "LGA1700",
+        "performance": 60
+    },
+    {
+        "name": "Intel Core i5-14600K",
+        "socket": "LGA1700",
+        "performance": 78
+    },
+    {
+        "name": "Intel Core i7-14700K",
+        "socket": "LGA1700",
+        "performance": 92
+    },
+    {
+        "name": "Intel Core i9-14900K",
+        "socket": "LGA1700",
+        "performance": 100
+    },
+
+    {
+        "name": "Intel Core Ultra 5 225F",
+        "socket": "LGA1851",
+        "performance": 70
+    },
+    {
+        "name": "Intel Core Ultra 5 245K",
+        "socket": "LGA1851",
+        "performance": 82
+    },
+    {
+        "name": "Intel Core Ultra 7 265K",
+        "socket": "LGA1851",
+        "performance": 94
+    },
+    {
+        "name": "Intel Core Ultra 9 285K",
+        "socket": "LGA1851",
+        "performance": 100
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "name": "H610 DDR4",
+        "socket": "LGA1700",
+        "ram_type": "DDR4",
+        "max_ram": "64GB",
+        "ram_speed": "DDR4-3200"
+    },
+    {
+        "name": "B660 DDR4",
+        "socket": "LGA1700",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-3600"
+    },
+    {
+        "name": "B660 DDR5",
+        "socket": "LGA1700",
+        "ram_type": "DDR5",
+        "max_ram": "128GB",
+        "ram_speed": "DDR5-6000"
+    },
+    {
+        "name": "Z690 DDR4",
+        "socket": "LGA1700",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-5333"
+    },
+    {
+        "name": "Z690 DDR5",
+        "socket": "LGA1700",
+        "ram_type": "DDR5",
+        "max_ram": "128GB",
+        "ram_speed": "DDR5-6400"
+    },
+    {
+        "name": "B760 DDR4",
+        "socket": "LGA1700",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-3600"
+    },
+    {
+        "name": "B760 DDR5",
+        "socket": "LGA1700",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-7000"
+    },
+    {
+        "name": "Z790 DDR4",
+        "socket": "LGA1700",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-5333"
+    },
+    {
+        "name": "Z790 DDR5",
+        "socket": "LGA1700",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-7800"
+    },
+    {
+        "name": "B860 DDR5",
+        "socket": "LGA1851",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-7600"
+    },
+    {
+        "name": "Z890 DDR5",
+        "socket": "LGA1851",
+        "ram_type": "DDR5",
+        "max_ram": "256GB",
+        "ram_speed": "DDR5-8600"
+    }
+]
