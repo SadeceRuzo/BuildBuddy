@@ -7,6 +7,13 @@
         "ram_speed": "DDR4-3200"
     },
     {
+        "name": "H610 DDR5",
+        "socket": "LGA1700",
+        "ram_type": "DDR5",
+        "max_ram": "96GB",
+        "ram_speed": "DDR5-5600"
+    },
+    {
         "name": "B660 DDR4",
         "socket": "LGA1700",
         "ram_type": "DDR4",
@@ -15,6 +22,20 @@
     },
     {
         "name": "B660 DDR5",
+        "socket": "LGA1700",
+        "ram_type": "DDR5",
+        "max_ram": "128GB",
+        "ram_speed": "DDR5-6000"
+    },
+    {
+        "name": "H670 DDR4",
+        "socket": "LGA1700",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-3600"
+    },
+    {
+        "name": "H670 DDR5",
         "socket": "LGA1700",
         "ram_type": "DDR5",
         "max_ram": "128GB",
@@ -49,6 +70,20 @@
         "ram_speed": "DDR5-7000"
     },
     {
+        "name": "H770 DDR4",
+        "socket": "LGA1700",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-3600"
+    },
+    {
+        "name": "H770 DDR5",
+        "socket": "LGA1700",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-7200"
+    },
+    {
         "name": "Z790 DDR4",
         "socket": "LGA1700",
         "ram_type": "DDR4",
@@ -63,6 +98,13 @@
         "ram_speed": "DDR5-7800"
     },
     {
+        "name": "H810 DDR5",
+        "socket": "LGA1851",
+        "ram_type": "DDR5",
+        "max_ram": "96GB",
+        "ram_speed": "DDR5-6400"
+    },
+    {
         "name": "B860 DDR5",
         "socket": "LGA1851",
         "ram_type": "DDR5",
@@ -75,5 +117,124 @@
         "ram_type": "DDR5",
         "max_ram": "256GB",
         "ram_speed": "DDR5-8600"
+    },
+    {
+        "name": "A320 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "64GB",
+        "ram_speed": "DDR4-3200"
+    },
+    {
+        "name": "B350 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "64GB",
+        "ram_speed": "DDR4-3200"
+    },
+    {
+        "name": "X370 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "64GB",
+        "ram_speed": "DDR4-3200"
+    },
+    {
+        "name": "B450 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-3600"
+    },
+    {
+        "name": "X470 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-3600"
+    },
+    {
+        "name": "A520 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "64GB",
+        "ram_speed": "DDR4-3600"
+    },
+    {
+        "name": "B550 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-4800"
+    },
+    {
+        "name": "X570 DDR4",
+        "socket": "AM4",
+        "ram_type": "DDR4",
+        "max_ram": "128GB",
+        "ram_speed": "DDR4-5100"
+    },
+    {
+        "name": "A620 DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "96GB",
+        "ram_speed": "DDR5-6000"
+    },
+    {
+        "name": "B650 DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-7200"
+    },
+    {
+        "name": "B650E DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-7600"
+    },
+    {
+        "name": "X670 DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-7600"
+    },
+    {
+        "name": "X670E DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-8000"
+    },
+    {
+        "name": "B840 DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "192GB",
+        "ram_speed": "DDR5-6400"
+    },
+    {
+        "name": "B850 DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "256GB",
+        "ram_speed": "DDR5-8000"
+    },
+    {
+        "name": "X870 DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "256GB",
+        "ram_speed": "DDR5-8000"
+    },
+    {
+        "name": "X870E DDR5",
+        "socket": "AM5",
+        "ram_type": "DDR5",
+        "max_ram": "256GB",
+        "ram_speed": "DDR5-8400"
     }
 ]
