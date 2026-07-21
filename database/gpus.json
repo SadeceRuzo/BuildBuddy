@@ -2,202 +2,409 @@
     {
         "name": "RTX 2060",
         "vram": "6GB",
-        "power": 550,
-        "performance": 25
+        "power": 500,
+        "performance": 18
     },
     {
         "name": "RTX 2060 SUPER",
         "vram": "8GB",
         "power": 550,
-        "performance": 30
+        "performance": 22
     },
     {
         "name": "RTX 2070",
         "vram": "8GB",
         "power": 550,
-        "performance": 33
+        "performance": 22
     },
     {
         "name": "RTX 2070 SUPER",
         "vram": "8GB",
         "power": 650,
-        "performance": 38
+        "performance": 26
     },
     {
         "name": "RTX 2080",
         "vram": "8GB",
         "power": 650,
-        "performance": 42
+        "performance": 27
     },
     {
         "name": "RTX 2080 SUPER",
         "vram": "8GB",
         "power": 650,
-        "performance": 45
+        "performance": 29
     },
     {
         "name": "RTX 2080 Ti",
         "vram": "11GB",
         "power": 650,
-        "performance": 50
+        "performance": 35
     },
-
     {
         "name": "RTX 3050",
         "vram": "8GB",
-        "power": 550,
-        "performance": 28
+        "power": 450,
+        "performance": 16
     },
     {
         "name": "RTX 3060",
         "vram": "12GB",
         "power": 550,
-        "performance": 40
+        "performance": 20
     },
     {
         "name": "RTX 3060 Ti",
         "vram": "8GB",
         "power": 600,
-        "performance": 48
+        "performance": 27
     },
     {
         "name": "RTX 3070",
         "vram": "8GB",
         "power": 650,
-        "performance": 55
+        "performance": 31
     },
     {
         "name": "RTX 3070 Ti",
         "vram": "8GB",
-        "power": 650,
-        "performance": 60
+        "power": 750,
+        "performance": 34
     },
     {
         "name": "RTX 3080",
         "vram": "10GB",
         "power": 750,
-        "performance": 68
+        "performance": 40
     },
     {
         "name": "RTX 3080 Ti",
         "vram": "12GB",
         "power": 750,
-        "performance": 73
+        "performance": 44
     },
     {
         "name": "RTX 3090",
         "vram": "24GB",
         "power": 750,
-        "performance": 78
+        "performance": 45
     },
     {
         "name": "RTX 3090 Ti",
         "vram": "24GB",
         "power": 850,
-        "performance": 82
+        "performance": 50
     },
-
     {
         "name": "RTX 4060",
         "vram": "8GB",
         "power": 550,
-        "performance": 50
+        "performance": 25
     },
     {
         "name": "RTX 4060 Ti 8GB",
         "vram": "8GB",
         "power": 550,
-        "performance": 56
+        "performance": 30
     },
     {
         "name": "RTX 4060 Ti 16GB",
         "vram": "16GB",
         "power": 550,
-        "performance": 57
+        "performance": 30
     },
     {
         "name": "RTX 4070",
         "vram": "12GB",
         "power": 650,
-        "performance": 70
+        "performance": 44
     },
     {
         "name": "RTX 4070 SUPER",
         "vram": "12GB",
         "power": 650,
-        "performance": 76
+        "performance": 46
     },
     {
         "name": "RTX 4070 Ti",
         "vram": "12GB",
         "power": 700,
-        "performance": 82
+        "performance": 47
     },
     {
         "name": "RTX 4070 Ti SUPER",
         "vram": "16GB",
-        "power": 750,
-        "performance": 86
+        "power": 700,
+        "performance": 50
     },
     {
         "name": "RTX 4080",
         "vram": "16GB",
         "power": 750,
-        "performance": 90
+        "performance": 58
     },
     {
         "name": "RTX 4080 SUPER",
         "vram": "16GB",
         "power": 750,
-        "performance": 92
+        "performance": 59
     },
     {
         "name": "RTX 4090",
         "vram": "24GB",
         "power": 850,
-        "performance": 96
+        "performance": 76
     },
-
     {
         "name": "RTX 5050",
         "vram": "8GB",
-        "power": 550,
-        "performance": 55
+        "power": 500,
+        "performance": 22
     },
     {
         "name": "RTX 5060",
         "vram": "8GB",
         "power": 550,
-        "performance": 65
+        "performance": 32
     },
     {
         "name": "RTX 5060 Ti",
         "vram": "16GB",
         "power": 600,
-        "performance": 72
+        "performance": 38
     },
     {
         "name": "RTX 5070",
         "vram": "12GB",
         "power": 650,
-        "performance": 84
+        "performance": 50
     },
     {
         "name": "RTX 5070 Ti",
         "vram": "16GB",
-        "power": 750,
-        "performance": 91
+        "power": 700,
+        "performance": 58
     },
     {
         "name": "RTX 5080",
         "vram": "16GB",
         "power": 850,
-        "performance": 97
+        "performance": 68
     },
     {
         "name": "RTX 5090",
         "vram": "32GB",
         "power": 1000,
         "performance": 100
+    },
+    {
+        "name": "RX 590",
+        "vram": "8GB",
+        "power": 500,
+        "performance": 11
+    },
+    {
+        "name": "RX Vega 56",
+        "vram": "8GB",
+        "power": 650,
+        "performance": 14
+    },
+    {
+        "name": "RX Vega 64",
+        "vram": "8GB",
+        "power": 750,
+        "performance": 16
+    },
+    {
+        "name": "Radeon VII",
+        "vram": "16GB",
+        "power": 750,
+        "performance": 20
+    },
+    {
+        "name": "RX 5300",
+        "vram": "3GB",
+        "power": 350,
+        "performance": 8
+    },
+    {
+        "name": "RX 5500",
+        "vram": "4GB",
+        "power": 450,
+        "performance": 10
+    },
+    {
+        "name": "RX 5500 XT",
+        "vram": "8GB",
+        "power": 450,
+        "performance": 11
+    },
+    {
+        "name": "RX 5600",
+        "vram": "6GB",
+        "power": 450,
+        "performance": 14
+    },
+    {
+        "name": "RX 5600 XT",
+        "vram": "6GB",
+        "power": 500,
+        "performance": 15
+    },
+    {
+        "name": "RX 5700",
+        "vram": "8GB",
+        "power": 600,
+        "performance": 17
+    },
+    {
+        "name": "RX 5700 XT",
+        "vram": "8GB",
+        "power": 600,
+        "performance": 19
+    },
+    {
+        "name": "RX 6400",
+        "vram": "4GB",
+        "power": 350,
+        "performance": 6
+    },
+    {
+        "name": "RX 6500 XT",
+        "vram": "4GB",
+        "power": 400,
+        "performance": 8
+    },
+    {
+        "name": "RX 6600",
+        "vram": "8GB",
+        "power": 450,
+        "performance": 18
+    },
+    {
+        "name": "RX 6600 XT",
+        "vram": "8GB",
+        "power": 500,
+        "performance": 21
+    },
+    {
+        "name": "RX 6650 XT",
+        "vram": "8GB",
+        "power": 500,
+        "performance": 22
+    },
+    {
+        "name": "RX 6700",
+        "vram": "10GB",
+        "power": 600,
+        "performance": 25
+    },
+    {
+        "name": "RX 6700 XT",
+        "vram": "12GB",
+        "power": 650,
+        "performance": 27
+    },
+    {
+        "name": "RX 6750 XT",
+        "vram": "12GB",
+        "power": 650,
+        "performance": 28
+    },
+    {
+        "name": "RX 6800",
+        "vram": "16GB",
+        "power": 650,
+        "performance": 35
+    },
+    {
+        "name": "RX 6800 XT",
+        "vram": "16GB",
+        "power": 750,
+        "performance": 41
+    },
+    {
+        "name": "RX 6900 XT",
+        "vram": "16GB",
+        "power": 850,
+        "performance": 43
+    },
+    {
+        "name": "RX 6950 XT",
+        "vram": "16GB",
+        "power": 850,
+        "performance": 47
+    },
+    {
+        "name": "RX 7600",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 22
+    },
+    {
+        "name": "RX 7600 XT",
+        "vram": "16GB",
+        "power": 600,
+        "performance": 23
+    },
+    {
+        "name": "RX 7700 XT",
+        "vram": "12GB",
+        "power": 700,
+        "performance": 35
+    },
+    {
+        "name": "RX 7800 XT",
+        "vram": "16GB",
+        "power": 700,
+        "performance": 43
+    },
+    {
+        "name": "RX 7900 GRE",
+        "vram": "16GB",
+        "power": 700,
+        "performance": 45
+    },
+    {
+        "name": "RX 7900 XT",
+        "vram": "20GB",
+        "power": 750,
+        "performance": 50
+    },
+    {
+        "name": "RX 7900 XTX",
+        "vram": "24GB",
+        "power": 800,
+        "performance": 58
+    },
+    {
+        "name": "RX 9060 XT 8GB",
+        "vram": "8GB",
+        "power": 550,
+        "performance": 37
+    },
+    {
+        "name": "RX 9060 XT 16GB",
+        "vram": "16GB",
+        "power": 550,
+        "performance": 40
+    },
+    {
+        "name": "RX 9070 GRE",
+        "vram": "16GB",
+        "power": 650,
+        "performance": 52
+    },
+    {
+        "name": "RX 9070",
+        "vram": "16GB",
+        "power": 650,
+        "performance": 62
+    },
+    {
+        "name": "RX 9070 XT",
+        "vram": "16GB",
+        "power": 750,
+        "performance": 70
     }
 ]
