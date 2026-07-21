@@ -1,8 +1,22 @@
 import json
 import os
+import sys
 
-BASE_PATH = os.path.dirname(os.path.abspath(__file__))
-DATABASE_FOLDER = os.path.join(BASE_PATH, "database")
+
+def resource_path(relative_path):
+    """
+    Normal python ile çalışırken script'in bulunduğu klasörü,
+    PyInstaller ile exe'ye çevrildiğinde ise exe'nin içine
+    gömülen geçici klasörü (sys._MEIPASS) baz alır.
+    """
+    try:
+        base_path = sys._MEIPASS
+    except AttributeError:
+        base_path = os.path.dirname(os.path.abspath(__file__))
+    return os.path.join(base_path, relative_path)
+
+
+DATABASE_FOLDER = resource_path("database")
 
 
 def load_database(filename):
