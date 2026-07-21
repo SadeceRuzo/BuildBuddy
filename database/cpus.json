@@ -1,6 +1,16 @@
 [
     {
+        "name": "Intel Core i3-12100F",
+        "socket": "LGA1700",
+        "performance": 32
+    },
+    {
         "name": "Intel Core i5-12400F",
+        "socket": "LGA1700",
+        "performance": 42
+    },
+    {
+        "name": "Intel Core i5-12500",
         "socket": "LGA1700",
         "performance": 45
     },
@@ -10,6 +20,11 @@
         "performance": 55
     },
     {
+        "name": "Intel Core i7-12700F",
+        "socket": "LGA1700",
+        "performance": 60
+    },
+    {
         "name": "Intel Core i7-12700K",
         "socket": "LGA1700",
         "performance": 65
@@ -17,13 +32,27 @@
     {
         "name": "Intel Core i9-12900K",
         "socket": "LGA1700",
-        "performance": 75
+        "performance": 73
     },
-
+    {
+        "name": "Intel Core i9-12900KS",
+        "socket": "LGA1700",
+        "performance": 76
+    },
+    {
+        "name": "Intel Core i3-13100F",
+        "socket": "LGA1700",
+        "performance": 36
+    },
     {
         "name": "Intel Core i5-13400F",
         "socket": "LGA1700",
-        "performance": 55
+        "performance": 48
+    },
+    {
+        "name": "Intel Core i5-13500",
+        "socket": "LGA1700",
+        "performance": 58
     },
     {
         "name": "Intel Core i5-13600K",
@@ -31,55 +60,498 @@
         "performance": 72
     },
     {
+        "name": "Intel Core i7-13700F",
+        "socket": "LGA1700",
+        "performance": 75
+    },
+    {
         "name": "Intel Core i7-13700K",
         "socket": "LGA1700",
-        "performance": 85
+        "performance": 82
     },
     {
         "name": "Intel Core i9-13900K",
         "socket": "LGA1700",
+        "performance": 93
+    },
+    {
+        "name": "Intel Core i9-13900KS",
+        "socket": "LGA1700",
         "performance": 95
     },
-
+    {
+        "name": "Intel Core i3-14100F",
+        "socket": "LGA1700",
+        "performance": 38
+    },
     {
         "name": "Intel Core i5-14400F",
         "socket": "LGA1700",
-        "performance": 60
+        "performance": 50
+    },
+    {
+        "name": "Intel Core i5-14500",
+        "socket": "LGA1700",
+        "performance": 61
     },
     {
         "name": "Intel Core i5-14600K",
         "socket": "LGA1700",
-        "performance": 78
+        "performance": 75
+    },
+    {
+        "name": "Intel Core i7-14700F",
+        "socket": "LGA1700",
+        "performance": 83
     },
     {
         "name": "Intel Core i7-14700K",
         "socket": "LGA1700",
-        "performance": 92
+        "performance": 88
     },
     {
         "name": "Intel Core i9-14900K",
         "socket": "LGA1700",
-        "performance": 100
+        "performance": 97
     },
-
+    {
+        "name": "Intel Core i9-14900KS",
+        "socket": "LGA1700",
+        "performance": 99
+    },
     {
         "name": "Intel Core Ultra 5 225F",
         "socket": "LGA1851",
-        "performance": 70
+        "performance": 56
     },
     {
         "name": "Intel Core Ultra 5 245K",
         "socket": "LGA1851",
-        "performance": 82
+        "performance": 78
     },
     {
         "name": "Intel Core Ultra 7 265K",
         "socket": "LGA1851",
-        "performance": 94
+        "performance": 91
     },
     {
         "name": "Intel Core Ultra 9 285K",
         "socket": "LGA1851",
+        "performance": 100
+    },
+    {
+        "name": "AMD Ryzen 3 1200",
+        "socket": "AM4",
+        "performance": 12
+    },
+    {
+        "name": "AMD Ryzen 3 1300X",
+        "socket": "AM4",
+        "performance": 14
+    },
+    {
+        "name": "AMD Ryzen 5 1400",
+        "socket": "AM4",
+        "performance": 16
+    },
+    {
+        "name": "AMD Ryzen 5 1500X",
+        "socket": "AM4",
+        "performance": 18
+    },
+    {
+        "name": "AMD Ryzen 5 1600",
+        "socket": "AM4",
+        "performance": 21
+    },
+    {
+        "name": "AMD Ryzen 5 1600 AF",
+        "socket": "AM4",
+        "performance": 25
+    },
+    {
+        "name": "AMD Ryzen 5 1600X",
+        "socket": "AM4",
+        "performance": 23
+    },
+    {
+        "name": "AMD Ryzen 7 1700",
+        "socket": "AM4",
+        "performance": 26
+    },
+    {
+        "name": "AMD Ryzen 7 1700X",
+        "socket": "AM4",
+        "performance": 28
+    },
+    {
+        "name": "AMD Ryzen 7 1800X",
+        "socket": "AM4",
+        "performance": 30
+    },
+    {
+        "name": "AMD Ryzen 3 2200G",
+        "socket": "AM4",
+        "performance": 15
+    },
+    {
+        "name": "AMD Ryzen 3 2300X",
+        "socket": "AM4",
+        "performance": 17
+    },
+    {
+        "name": "AMD Ryzen 5 2400G",
+        "socket": "AM4",
+        "performance": 20
+    },
+    {
+        "name": "AMD Ryzen 5 2600",
+        "socket": "AM4",
+        "performance": 25
+    },
+    {
+        "name": "AMD Ryzen 5 2600X",
+        "socket": "AM4",
+        "performance": 27
+    },
+    {
+        "name": "AMD Ryzen 7 2700",
+        "socket": "AM4",
+        "performance": 31
+    },
+    {
+        "name": "AMD Ryzen 7 2700X",
+        "socket": "AM4",
+        "performance": 34
+    },
+    {
+        "name": "AMD Ryzen 3 3200G",
+        "socket": "AM4",
+        "performance": 17
+    },
+    {
+        "name": "AMD Ryzen 3 3100",
+        "socket": "AM4",
+        "performance": 22
+    },
+    {
+        "name": "AMD Ryzen 3 3300X",
+        "socket": "AM4",
+        "performance": 25
+    },
+    {
+        "name": "AMD Ryzen 5 3400G",
+        "socket": "AM4",
+        "performance": 22
+    },
+    {
+        "name": "AMD Ryzen 5 3500",
+        "socket": "AM4",
+        "performance": 26
+    },
+    {
+        "name": "AMD Ryzen 5 3500X",
+        "socket": "AM4",
+        "performance": 28
+    },
+    {
+        "name": "AMD Ryzen 5 3600",
+        "socket": "AM4",
+        "performance": 30
+    },
+    {
+        "name": "AMD Ryzen 5 3600X",
+        "socket": "AM4",
+        "performance": 32
+    },
+    {
+        "name": "AMD Ryzen 5 3600XT",
+        "socket": "AM4",
+        "performance": 33
+    },
+    {
+        "name": "AMD Ryzen 7 3700X",
+        "socket": "AM4",
+        "performance": 38
+    },
+    {
+        "name": "AMD Ryzen 7 3800X",
+        "socket": "AM4",
+        "performance": 40
+    },
+    {
+        "name": "AMD Ryzen 7 3800XT",
+        "socket": "AM4",
+        "performance": 42
+    },
+    {
+        "name": "AMD Ryzen 9 3900",
+        "socket": "AM4",
+        "performance": 50
+    },
+    {
+        "name": "AMD Ryzen 9 3900X",
+        "socket": "AM4",
+        "performance": 52
+    },
+    {
+        "name": "AMD Ryzen 9 3900XT",
+        "socket": "AM4",
+        "performance": 54
+    },
+    {
+        "name": "AMD Ryzen 9 3950X",
+        "socket": "AM4",
+        "performance": 58
+    },
+    {
+        "name": "AMD Ryzen 3 4100",
+        "socket": "AM4",
+        "performance": 24
+    },
+    {
+        "name": "AMD Ryzen 3 4300G",
+        "socket": "AM4",
+        "performance": 26
+    },
+    {
+        "name": "AMD Ryzen 5 4500",
+        "socket": "AM4",
+        "performance": 31
+    },
+    {
+        "name": "AMD Ryzen 5 4600G",
+        "socket": "AM4",
+        "performance": 33
+    },
+    {
+        "name": "AMD Ryzen 7 4700G",
+        "socket": "AM4",
+        "performance": 41
+    },
+    {
+        "name": "AMD Ryzen 3 5100",
+        "socket": "AM4",
+        "performance": 26
+    },
+    {
+        "name": "AMD Ryzen 3 5300G",
+        "socket": "AM4",
+        "performance": 28
+    },
+    {
+        "name": "AMD Ryzen 5 5500",
+        "socket": "AM4",
+        "performance": 36
+    },
+    {
+        "name": "AMD Ryzen 5 5500GT",
+        "socket": "AM4",
+        "performance": 37
+    },
+    {
+        "name": "AMD Ryzen 5 5600G",
+        "socket": "AM4",
+        "performance": 38
+    },
+    {
+        "name": "AMD Ryzen 5 5600GT",
+        "socket": "AM4",
+        "performance": 39
+    },
+    {
+        "name": "AMD Ryzen 5 5600",
+        "socket": "AM4",
+        "performance": 41
+    },
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "socket": "AM4",
+        "performance": 43
+    },
+    {
+        "name": "AMD Ryzen 5 5600X3D",
+        "socket": "AM4",
+        "performance": 48
+    },
+    {
+        "name": "AMD Ryzen 7 5700G",
+        "socket": "AM4",
+        "performance": 46
+    },
+    {
+        "name": "AMD Ryzen 7 5700",
+        "socket": "AM4",
+        "performance": 45
+    },
+    {
+        "name": "AMD Ryzen 7 5700X",
+        "socket": "AM4",
+        "performance": 50
+    },
+    {
+        "name": "AMD Ryzen 7 5700X3D",
+        "socket": "AM4",
+        "performance": 56
+    },
+    {
+        "name": "AMD Ryzen 7 5800X",
+        "socket": "AM4",
+        "performance": 53
+    },
+    {
+        "name": "AMD Ryzen 7 5800XT",
+        "socket": "AM4",
+        "performance": 55
+    },
+    {
+        "name": "AMD Ryzen 7 5800X3D",
+        "socket": "AM4",
+        "performance": 60
+    },
+    {
+        "name": "AMD Ryzen 9 5900X",
+        "socket": "AM4",
+        "performance": 68
+    },
+    {
+        "name": "AMD Ryzen 9 5900XT",
+        "socket": "AM4",
+        "performance": 72
+    },
+    {
+        "name": "AMD Ryzen 9 5950X",
+        "socket": "AM4",
+        "performance": 74
+    },
+    {
+        "name": "AMD Ryzen 3 8300G",
+        "socket": "AM5",
+        "performance": 34
+    },
+    {
+        "name": "AMD Ryzen 5 8400F",
+        "socket": "AM5",
+        "performance": 42
+    },
+    {
+        "name": "AMD Ryzen 5 8500G",
+        "socket": "AM5",
+        "performance": 45
+    },
+    {
+        "name": "AMD Ryzen 5 8600G",
+        "socket": "AM5",
+        "performance": 51
+    },
+    {
+        "name": "AMD Ryzen 7 8700F",
+        "socket": "AM5",
+        "performance": 58
+    },
+    {
+        "name": "AMD Ryzen 7 8700G",
+        "socket": "AM5",
+        "performance": 62
+    },
+    {
+        "name": "AMD Ryzen 5 7400F",
+        "socket": "AM5",
+        "performance": 50
+    },
+    {
+        "name": "AMD Ryzen 5 7500F",
+        "socket": "AM5",
+        "performance": 55
+    },
+    {
+        "name": "AMD Ryzen 5 7600",
+        "socket": "AM5",
+        "performance": 57
+    },
+    {
+        "name": "AMD Ryzen 5 7600X",
+        "socket": "AM5",
+        "performance": 60
+    },
+    {
+        "name": "AMD Ryzen 5 7600X3D",
+        "socket": "AM5",
+        "performance": 66
+    },
+    {
+        "name": "AMD Ryzen 7 7700",
+        "socket": "AM5",
+        "performance": 68
+    },
+    {
+        "name": "AMD Ryzen 7 7700X",
+        "socket": "AM5",
+        "performance": 71
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "socket": "AM5",
+        "performance": 80
+    },
+    {
+        "name": "AMD Ryzen 9 7900",
+        "socket": "AM5",
+        "performance": 82
+    },
+    {
+        "name": "AMD Ryzen 9 7900X",
+        "socket": "AM5",
+        "performance": 85
+    },
+    {
+        "name": "AMD Ryzen 9 7900X3D",
+        "socket": "AM5",
+        "performance": 86
+    },
+    {
+        "name": "AMD Ryzen 9 7950X",
+        "socket": "AM5",
+        "performance": 93
+    },
+    {
+        "name": "AMD Ryzen 9 7950X3D",
+        "socket": "AM5",
+        "performance": 94
+    },
+    {
+        "name": "AMD Ryzen 5 9600X",
+        "socket": "AM5",
+        "performance": 68
+    },
+    {
+        "name": "AMD Ryzen 7 9700X",
+        "socket": "AM5",
+        "performance": 79
+    },
+    {
+        "name": "AMD Ryzen 7 9800X3D",
+        "socket": "AM5",
+        "performance": 89
+    },
+    {
+        "name": "AMD Ryzen 9 9900X",
+        "socket": "AM5",
+        "performance": 92
+    },
+    {
+        "name": "AMD Ryzen 9 9900X3D",
+        "socket": "AM5",
+        "performance": 95
+    },
+    {
+        "name": "AMD Ryzen 9 9950X",
+        "socket": "AM5",
+        "performance": 100
+    },
+    {
+        "name": "AMD Ryzen 9 9950X3D",
+        "socket": "AM5",
         "performance": 100
     }
 ]
