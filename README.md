@@ -14,6 +14,7 @@ What’s Supported Right Now
 
 CPUs: Intel & AMD
 GPUs: NVIDIA & AMD
+Almost All PSUs
 I'm definitely planning to add more hardware to the list in future updates.
 
 # Techs Used
